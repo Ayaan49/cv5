@@ -1,0 +1,148 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+
+h1{
+  margin: 60px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.top-container {
+  padding-top: 100px;
+  background-color: #EAF6F6;
+  position: relative;
+}
+
+.p {
+  line-height: 2;
+}
+
+.profile {
+  padding-top: 100px;
+}
+
+
+.middle-container {
+margin: 0;
+background-color: #EDEEF7;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-bottom: 30px;
+  padding-top: 40px;
+
+}
+
+.copyright {
+  margin-bottom: 0;
+  color: #EAF6F6;
+}
+.web-design {
+  width: 25%;
+  float: left;
+  margin: 0 30px 0 auto;
+}
+
+.video-editing {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.web-design-para {
+  margin: auto;
+}
+
+hr {
+  width: 5%;
+  border-top: 10px dotted;
+  border-bottom: 0;
+  border-left: 0;
+  border-right: 0;
+  border-color: #dcdcdc;
+  margin: 100px auto;
+}
+.contact-me {
+  padding-bottom: 50px;
+  padding-top: 20px;
+}
+
+
+.sharing {
+  padding-bottom: 30px;
+}
+  .btn {
+  background: #6adede;
+  background-image: -webkit-linear-gradient(top, #6adede, #47aded);
+  background-image: -moz-linear-gradient(top, #6adede, #47aded);
+  background-image: -ms-linear-gradient(top, #6adede, #47aded);
+  background-image: -o-linear-gradient(top, #6adede, #47aded);
+  background-image: linear-gradient(to bottom, #6adede, #47aded);
+  -webkit-border-radius: 7;
+  -moz-border-radius: 7;
+  border-radius: 7px;
+  font-family: Arial;
+  color: #e6eded;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 450px;
+  bottom: 300px;
+
+}
+
+.footer-link {
+  color: #11999E;
+  color: #1199E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: #EAF6F6;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
